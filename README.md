@@ -1,4 +1,4 @@
-# 🛡️ Cyber Port Scanner
+# 🛡️ Network Port Scanner
 
 A professional, multithreaded **TCP port scanner** with a modern JavaFX desktop GUI, built in Java 21. Designed as a cybersecurity project demonstrating clean architecture, concurrency, and secure coding practices.
 
@@ -71,4 +71,4 @@ The project is organized around SOLID principles with a clear separation between
 This project is licensed under the [MIT License](LICENSE).
 
 
-Live Demo - https://ayush1237518.github.io/Cyber-Port-Scanner/
+Live Demo - https://ayush1237518.github.io/Network-Port-Scanner/
